@@ -1,5 +1,5 @@
 <?php
-class SdkApiController
+class SdkApi
 {
     private $api_url = "http://localhost";
     private $api_auth_url = "http://localhost/oauth/v2/token";
