@@ -1,5 +1,5 @@
 <?php
-namespace SdkApi;
+namespace SimplyOffice;
 class SdkApi
 {
     private $api_url = "http://localhost";
