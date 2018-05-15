@@ -1,4 +1,5 @@
 <?php
+namespace rhomasrassloff\sdkapi;
 class SdkApi
 {
     private $api_url = "http://localhost";
